@@ -18,8 +18,7 @@ print("Total NO2 values:", len(x))
 # STEP 2: Enter Your Roll Number
 # -------------------------
 
-r = 1234   # 🔴 CHANGE THIS to your roll number
-
+r = 102303605
 a_r = 0.05 * (r % 7)
 b_r = 0.3 * ((r % 5) + 1)
 
